@@ -1,8 +1,9 @@
 form {
+  background-color: lightblue;
   border: 1px solid #ccc;
   padding: 20px;
   margin-bottom: 20px;
-  background-color: #fff;
+  
   max-width: 500px;
   background-image: url('your-image-url.jpg');
   background-size: cover;
